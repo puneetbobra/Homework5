@@ -1,0 +1,2 @@
+Number of students: 3
+Sum of scores: 237
