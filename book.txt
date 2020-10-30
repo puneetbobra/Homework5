@@ -1,0 +1,6 @@
+While polls contnue as they have for months to show former Vice President Joe Biden leading President Trump, financial markets are suggesting the vote could be close and that the outcome of presidential and congressional elections may not be known on November 3. In anticipation that markets could turn volatile if the vote's outcome is not known on election day, some investors and traders have been building hedging strategies using derivatives, gold, and options.
+It should handle IOError exceptions that are raised when it fails to open the file, display an error message with the detail error exception and stop. For example, it happens when there is no scores.txt in the current folder.
+
+For the following content, it should handle any ValueError exceptions that are raised when the items
+that are read from the score field are failed to be converted to a number by printing an error message and skip the record.  There could be multiple error values to be ignored. For example, the data could be:
+abcdefghijklmnopqrstuvwxyz

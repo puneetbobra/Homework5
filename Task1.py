@@ -36,7 +36,7 @@ with open(OUTPUT_FILE, WRITE_MODE) as out:
             #if score does not contain the correct value remove the record from the count and write the bad record            
             elif score.isdigit() == False:
                 counter -= 1
-                out.write(f'Bad score value for {str(name)}, ignored.\n')
+                out.write(f'Bad score value for {(name)}, ignored.\n')
             
             #for a valid record add the score to total
             else:

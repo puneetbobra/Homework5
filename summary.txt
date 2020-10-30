@@ -1,0 +1,28 @@
+A 57
+B 13
+C 24
+D 38
+E 117
+F 16
+G 17
+H 35
+I 57
+J 2
+K 6
+L 38
+M 19
+N 65
+O 71
+P 21
+Q 1
+R 61
+S 48
+T 77
+U 20
+V 14
+W 10
+X 7
+Y 7
+Z 1
+
+It has all letters
